@@ -1,0 +1,11 @@
+C:\project\Dosbox\DosBox\bin\Debug\DosBox.exe
+C:\project\Dosbox\DosBox\bin\Debug\DosBox.pdb
+C:\project\Dosbox\DosBox\obj\Debug\DosBox.csprojResolveAssemblyReference.cache
+C:\project\Dosbox\DosBox\obj\Debug\DosBox.exe
+C:\project\Dosbox\DosBox\obj\Debug\DosBox.pdb
+C:\Users\aditi\Downloads\Dosbox\DosBox\bin\Debug\DosBox.exe
+C:\Users\aditi\Downloads\Dosbox\DosBox\bin\Debug\DosBox.pdb
+C:\Users\aditi\Downloads\Dosbox\DosBox\obj\Debug\DosBox.csproj.AssemblyReference.cache
+C:\Users\aditi\Downloads\Dosbox\DosBox\obj\Debug\DosBox.csproj.CoreCompileInputs.cache
+C:\Users\aditi\Downloads\Dosbox\DosBox\obj\Debug\DosBox.exe
+C:\Users\aditi\Downloads\Dosbox\DosBox\obj\Debug\DosBox.pdb
