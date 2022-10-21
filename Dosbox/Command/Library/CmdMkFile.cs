@@ -18,7 +18,7 @@ namespace DosBox.Command.Library
         public override void Execute(IOutputter outputter)
         {
             string fileName = GetParameterAt(0);
-            string fileContent = GetParameterAt(1);
+            string fileContent = GetParameterAt(0);
             File file = new File(fileName, fileContent);
             Drive.CurrentDirectory.Add(file);
         }
